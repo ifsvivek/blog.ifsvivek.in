@@ -1,5 +1,4 @@
 # The Site Configuration
-
 theme: jekyll-theme-chirpy
 baseurl: "/ifsvivek.github.io"
 lang: en
