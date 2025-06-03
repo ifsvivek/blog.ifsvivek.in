@@ -1,4 +1,3 @@
-
 # **Welcome!**
 
 I'm Vivek Sharma, a Computer Science student with a passion for learning and sharing knowledge. This website is my hub for projects, blog posts, and anything else that sparks my curiosity.
